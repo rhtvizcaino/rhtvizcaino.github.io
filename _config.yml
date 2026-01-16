@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Roberto H. Téllez Vizcaíno"
+title                    : "Roberto H. Tellez Vizcaino"
 title_separator          : "-"
-name                     : &name "Roberto H. Téllez Vizcaíno"
+name                     : &name "Roberto H. Tellez Vizcaino"
 description              : &description "Igneous petrology & volcanic geochemistry | Ocean-island & monogenetic volcanism (Bárcena 1952–53, Revillagigedo, Mexico)."
 url                      : https://rhtvizcaino.github.io
 baseurl                  : ""
@@ -24,7 +24,7 @@ repository               : "rhtvizcaino/rhtvizcaino.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Roberto H. Téllez Vizcaíno"
+  name             : "Roberto H. Tellez Vizcaíno"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate (IPICYT) | Igneous petrology & volcanic geochemistry | Ocean-island & monogenetic volcanism | EPMA • TIMS (Sr–Nd–Pb) • SEM"
   location         : "San Luis Potosí, Mexico"
