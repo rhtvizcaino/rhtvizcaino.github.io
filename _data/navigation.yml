@@ -17,6 +17,8 @@ main:
     url: /teaching/  
   - title: "CV"
     url: /cv/
+  - title: "ES"
+    url: /es/
   - title: "Contact"
     url: /contact/
  
