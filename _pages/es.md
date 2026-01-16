@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ES"
+title: "ESPAÑOL"
 permalink: /es/
 author_profile: true
 ---
@@ -22,8 +22,9 @@ Doctorando en Geociencias Aplicadas (IPICYT, México). Mi investigación se cent
 
 ## Enlaces
 
-- **Publicaciones:** {{ base_path }}/publications/  
-- **Ponencias y carteles:** {{ base_path }}/talks/  
-- **CV:** {{ base_path }}/cv/  
-- **Contacto:** {{ base_path }}/contact/  
-- **ORCID:** https://orcid.org/0000-0002-5098-9238
+- **Publicaciones:** [Publications](/publications/)
+- **Ponencias y carteles:** [Talks](/talks/)
+- **CV:** [CV](/cv/)
+- **Contacto:** [Contact](/contact/)
+- **ORCID:** [0000-0002-5098-9238](https://orcid.org/0000-0002-5098-9238)
+
