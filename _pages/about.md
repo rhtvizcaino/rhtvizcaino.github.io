@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Roberto H. Téllez Vizcaíno"
+title: "Roberto H. Tellez Vizcaino"
 author_profile: true
 redirect_from: 
   - /about/
