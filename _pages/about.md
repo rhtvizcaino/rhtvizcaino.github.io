@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD candidate in Applied Geosciences at IPICYT (Mexico)** specializing in **igneous petrology and volcanic geochemistry** of **young volcanic systems**, with a primary focus on **ocean-island and monogenetic volcanism**.
+*Currently a PhD candidate in Applied Geosciences at IPICYT (Mexico) specializing in igneous petrology and volcanic geochemistry of young volcanic systems, with a primary focus on cean-island and monogenetic volcanism.*
 
-My doctoral research reconstructs the **eruptive and magmatic evolution of the 1952–53 Bárcena monogenetic cone** (Isla San Benedicto, Revillagigedo Archipelago) through an integrated approach combining stratigraphy, petrology, geochemistry, and radiogenic isotopes.
+*My doctoral research reconstructs the eruptive and magmatic evolution of the 1952–53 Bárcena monogenetic cone (Isla San Benedicto, Revillagigedo Archipelago) through an integrated approach combining stratigraphy, petrology, geochemistry, and radiogenic isotopes*
+
+*Expected defense: summer 2026. Seeking postdoctoral opportunities (Aug 2026) in volcanic petrology/geochemistry, ocean-island volcanism, and/or analytical geochemistry.*
 
 ---
 
@@ -41,8 +43,8 @@ My doctoral research reconstructs the **eruptive and magmatic evolution of the 1
 ---
 
 ## Current status
-- **PhD defense:** expected **summer 2026**  
-- **Seeking postdoctoral opportunities:** starting **August 2026**  
+- **PhD defense:** expected summer 2026 
+- **Seeking postdoctoral opportunities:** starting August 2026  
 - **Research interests:** volcanic petrology, geochemistry, analytical methods, ocean-island systems
 
 ---
